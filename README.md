@@ -1,1 +1,1 @@
-# TECHNOHACKSEDUTECHTask2
+This project is a simple yet fully functional calculator built using HTML, CSS, and JavaScript. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, and features a clean and responsive user interface.
